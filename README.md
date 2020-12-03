@@ -1,5 +1,4 @@
 # Backend MERN - Calendar
 
-Backend que creamos en mi curso de React: de cero a experto
-
-fernando-herrera.com
+Backend con conexion a mongodb y aplicacion de calendarios con login y registro
+Se implementa el uso de variables de entorno y librerias como express, jsonwebtoken, bcrypt, moment y mongoose
